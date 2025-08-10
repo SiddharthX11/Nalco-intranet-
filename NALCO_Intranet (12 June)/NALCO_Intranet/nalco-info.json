@@ -1,0 +1,37 @@
+﻿{
+    "company": {
+        "name": "National Aluminium Company Limited",
+        "abbreviation": "NALCO",
+        "founded": "1981",
+        "headquarters": "Bhubaneswar, Odisha, India",
+        "industry": "Aluminium and Power",
+        "type": "Public Sector Undertaking (PSU)",
+        "description": "NALCO is a Navratna PSU under the Ministry of Mines, Government of India. It is one of the largest integrated bauxite-alumina-aluminium-power complexes in India, known for its sustainable operations and significant contributions to the aluminium industry."
+    },
+    "operations": {
+        "bauxite_mines": {
+            "location": "Panchpatmali, Koraput, Odisha",
+            "description": "NALCO operates one of the largest bauxite mines in Asia, with a capacity of 6.825 million tonnes per annum."
+        },
+        "alumina_refinery": {
+            "location": "Damanjodi, Odisha",
+            "description": "The refinery produces 2.275 million tonnes of alumina per year, making it one of the largest in the world."
+        },
+        "smelter": {
+            "location": "Angul, Odisha",
+            "description": "The smelter has a capacity of 0.46 million tonnes of aluminium per annum."
+        },
+        "power plant": {
+            "location": "Angul, Odisha",
+            "description": "The Captive Power Plant (CPP) has a capacity of 1200 MW to support NALCO’s operations."
+        }
+    },
+    "achievements": [
+        {"year": "1981", "milestone": "Incorporated as a public sector enterprise."},
+        {"year": "1987", "milestone": "Commenced commercial production of aluminium."},
+        {"year": "2008", "milestone": "Achieved Navratna status."},
+        {"year": "2020", "milestone": "Recognized for sustainable mining and green energy initiatives."}
+    ],
+    "vision": "To be a reputed global company in the metals and energy sectors.",
+    "mission": "To achieve sustainable growth through innovation, quality, and commitment to stakeholders."
+}

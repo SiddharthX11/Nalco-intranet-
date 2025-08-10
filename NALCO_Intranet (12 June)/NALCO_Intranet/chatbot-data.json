@@ -1,0 +1,162 @@
+﻿{
+    "birthdays": [
+        {"name": "Deepak Pal", "image": "http://10.1.5.7/images/emp_pic/10435.jpg", "date": "2025-03-25", "role": "Manager Systems", "department": "IT", "email": "deepak.pal@nalcoindia.com"},
+        {"name": "Priya Sharma", "image": "http://10.1.5.7/images/emp_pic/10567.jpg", "date": "2025-04-12", "role": "Senior HR Officer", "department": "Human Resources", "email": "priya.sharma@nalcoindia.com"},
+        {"name": "Ravi Kumar", "image": "http://10.1.5.7/images/emp_pic/10890.jpg", "date": "2025-06-18", "role": "Operations Supervisor", "department": "Smelter", "email": "ravi.kumar@nalcoindia.com"}
+    ],
+    "superannuations": [
+        {"name": "Anil Gupta", "image": "http://10.1.5.7/images/emp_pic/10234.jpg", "date": "2025-05-31", "role": "Chief Engineer", "department": "Power Plant", "years_of_service": 35, "retirement_message": "Thank you for your dedicated service!"},
+        {"name": "Sunita Das", "image": "http://10.1.5.7/images/emp_pic/10345.jpg", "date": "2025-07-15", "role": "Finance Manager", "department": "Finance", "years_of_service": 28, "retirement_message": "Best wishes for your retirement!"}
+    ],
+    "notices": [
+        {"title": "Minimum Wages Rate Chart", "date": "2025-03-18", "description": "Updated wage rates for employees effective April 2025.", "issuer": "HR Department"},
+        {"title": "Safety Protocol Update", "date": "2025-04-01", "description": "New safety guidelines for all operational units.", "issuer": "Safety Committee"},
+        {"title": "Annual Maintenance Schedule", "date": "2025-04-10", "description": "Planned shutdown of Smelter Unit 2 from May 1-5.", "issuer": "Operations Department"}
+    ],
+    "circulars": [
+        {"title": "B-Type Garages for Two Wheelers", "date": "2025-03-22", "description": "New parking facilities available at Bhubaneswar HQ.", "issuer": "Administration"},
+        {"title": "CSR Training Program", "date": "2025-04-15", "description": "Mandatory training for CSR team on community engagement.", "issuer": "CSR Department"},
+        {"title": "Digital Workflow Transition", "date": "2025-05-01", "description": "All approvals to move to NALCOAPPS by June 2025.", "issuer": "IT Department"}
+    ],
+    "quickLinks": [
+        {"name": "NALCO Website", "url": "https://www.nalcoindia.com", "description": "Official NALCO website."},
+        {"name": "NALCOAPPS Portal", "url": "http://10.1.5.7/nalcoapps", "description": "Internal applications portal for employees."},
+        {"name": "Employee Self-Service (ESS)", "url": "http://10.1.5.7/ess", "description": "Manage leave, payroll, and personal details."},
+        {"name": "Safety Training Hub", "url": "http://10.1.5.7/safety", "description": "Online safety training and certifications."},
+        {"name": "Market Insights", "url": "https://market.nalcoindia.com", "description": "Real-time aluminium market updates."}
+    ],
+    "holidays": [
+        {"name": "Holi", "date": "2025-03-14", "description": "Festival of colors."},
+        {"name": "Republic Day", "date": "2025-01-26", "description": "National holiday celebrating India’s Constitution."},
+        {"name": "Independence Day", "date": "2025-08-15", "description": "Celebration of India’s independence."},
+        {"name": "Gandhi Jayanti", "date": "2025-10-02", "description": "Honoring Mahatma Gandhi’s birth anniversary."},
+        {"name": "Diwali", "date": "2025-11-09", "description": "Festival of lights."}
+    ],
+    "login": {
+        "description": "Use the 'Login To NALCOAPPS' form with your credentials to access NALCO applications.",
+        "support_contact": "For login issues, contact IT Helpdesk at it.support@nalcoindia.com or call 1800-123-4567."
+    },
+    "dop": {
+        "title": "Delegation of Powers (DOP) 2011",
+        "effective_date": "2011-08-06",
+        "foreword": {
+            "date": "2011-08-06",
+            "author": "B. L. Bagra",
+            "title": "Chairman-cum-Managing Director",
+            "summary": "The DOP 2011 aims to enhance efficiency by delegating authority to appropriate levels, empowering lower management for execution while enabling strategic focus at higher levels, with periodic revisions reflecting inflation and feedback."
+        },
+        "office_order": {
+            "ref_no": "NBC/S/42/2011",
+            "date": "2011-08-06",
+            "issuer": "K.N. Ravindra",
+            "title": "Company Secretary",
+            "summary": "The Revised DOP 2011, approved by the CMD, supersedes prior orders except those for Regional Managers dated 10.06.2011 and 18.06.2011, effective immediately."
+        },
+        "sections": {
+            "human_resources": {
+                "description": "Covers policies for recruitment, promotions, training, travel, leave, and employee welfare expenditure.",
+                "clauses": {
+                    "1.1": "Authorize expenditure on HR activities.",
+                    "1.2": "Constitute Selection Board for recruitment, approve selection panel, and appoint non-executives including trainees/apprentices (Amended 31.01.2017, Circular 19.08.2017).",
+                    "1.15": "Approve tour programs and advances for officers and staff within India.",
+                    "1.35": "Grant leave and encashment for officers and staff, including LTC journeys (Amended 09.03.2021, 27.08.2021).",
+                    "1.40": "Approve training programs and seminars for employees up to Rs.5 lakh per event (Inserted 15.06.2018)."
+                }
+            },
+            "administration": {
+                "description": "Manages administrative expenditure, legal proceedings, publicity, and facility management.",
+                "clauses": {
+                    "2.1": "Sanction imprest to officers under their control.",
+                    "2.17": "Approve contracts for hiring vehicles (e.g., cars, jeeps, vans, buses) (Amended 22.06.2023: ED (Mktg) for field offices, Director (HR) for Delhi).",
+                    "2.28": "Organize/sanction mementoes, official lunch/dinner, tea, snacks, breakfast for meetings/seminars (Amended 20.04.2019, 07.11.2023: Includes festive food boxes).",
+                    "2.32": "Approve complimentary advertisements and expenditure on publicity, educational, social, cultural, sports, and welfare activities for outsiders (Amended 18.07.2023: Limits set per role).",
+                    "2.35": "Authorize lease agreements for office spaces up to 5 years (Inserted 10.09.2020)."
+                }
+            },
+            "materials": {
+                "description": "Handles procurement, maintenance, disposal, and emergency purchases for projects and operations.",
+                "clauses": {
+                    "3.1": "Approve new projects, additions, modifications, expansions, and capital investments.",
+                    "3.5": "Authorize operation, maintenance, repair, and service contracts (excluding vehicles) (Amended 12.05.2017).",
+                    "3.40": "Authorize purchase of Renewable Energy Certificates (Solar & Non-solar) (Inserted 12.04.2012).",
+                    "3.45": "Approve emergency procurement of critical spares up to Rs.10 lakh per case (Inserted 25.03.2019)."
+                }
+            },
+            "marketing": {
+                "description": "Governs sales contracts, export policies, transportation, and customer relations.",
+                "clauses": {
+                    "4.1": "Approve and enter into contracts for sale of alumina, aluminum, DEPB, electricity, etc., in domestic and export markets.",
+                    "4.12": "Award contracts for loading, unloading, transportation, and handling, including ocean freight for exports.",
+                    "4.21": "Approve freight upcharges to overseas destinations with periodic review (Inserted 09.10.2012).",
+                    "4.25": "Settle customer claims up to Rs.2 lakh per case (Amended 15.11.2021)."
+                }
+            },
+            "miscellaneous": {
+                "description": "Covers miscellaneous activities like equipment hire and statutory payments.",
+                "clauses": {
+                    "5.1": "Issue materials to Govt. Departments/PSUs on loan/hire basis.",
+                    "5.2": "Hire tools and equipment, including mobile equipment, from external parties.",
+                    "5.10": "Authorize payment of statutory dues and taxes (Inserted 01.07.2015)."
+                }
+            },
+            "finance": {
+                "description": "Manages financial approvals, budgeting, and investment decisions.",
+                "clauses": {
+                    "6.1": "Approve annual budgets and financial plans for operational units.",
+                    "6.5": "Authorize short-term investments of surplus funds up to Rs.50 crore (Inserted 20.08.2016).",
+                    "6.10": "Sanction loans and advances to employees per company policy (Amended 10.04.2022)."
+                }
+            }
+        },
+        "amendments": [
+            {"ref_no": "NBC/S/46/2023/091", "date": "2023-06-22", "clause": "2.17", "change": "Updated vehicle hiring contract powers: ED (Mktg) for Kolkata/Chennai/Mumbai/Vizag, Director (HR) for Delhi."},
+            {"ref_no": "NBC/S/46/2023/1232", "date": "2023-07-18", "clauses": ["2.32", "2.33.1"], "change": "Revised publicity/welfare expenditure limits: Functional Directors up to Rs.50,000 per case, Rs.10 lakh annually; EDs vary by location."},
+            {"ref_no": "NBC/S/46/2023/672", "date": "2023-09-18", "clause": "2.29", "change": "Expanded powers for organizing official events for Board/Directors/CVO/Shareholders meetings to Unit EDs and Company Secretary."},
+            {"ref_no": "NBC/S/46/2023/1959", "date": "2023-11-07", "clauses": ["2.28", "2.29"], "change": "Updated 2.28 to include festive items (up to Rs.2.5 lakh annually for EDs at complexes); 2.29 added tea/snacks/breakfast."},
+            {"ref_no": "NBC/S/46/2024/012", "date": "2024-01-15", "clause": "6.10", "change": "Increased loan limits for employees by 15% to adjust for inflation."},
+            {"ref_no": "NBC/S/46/2024/045", "date": "2024-03-10", "clause": "3.45", "change": "Raised emergency procurement limit to Rs.15 lakh per case for critical spares."}
+        ]
+    },
+    "policies": {
+        "leave_policy": {
+            "title": "NALCO Leave Policy 2023",
+            "effective_date": "2023-01-01",
+            "description": "Outlines leave entitlements including casual, earned, and medical leave for all employees.",
+            "details": {
+                "casual_leave": "8 days per year",
+                "earned_leave": "30 days per year, accumulative up to 300 days",
+                "medical_leave": "10 days per year with medical certificate"
+            }
+        },
+        "travel_policy": {
+            "title": "NALCO Travel Policy 2022",
+            "effective_date": "2022-06-15",
+            "description": "Guidelines for official travel, including allowances and approvals.",
+            "details": {
+                "domestic_travel": "Economy class airfare or 2nd AC train for officers.",
+                "international_travel": "Business class for Directors, economy for others, subject to CMD approval."
+            }
+        }
+    },
+  "events": [
+    {
+      "title": "Annual Sports Meet",
+      "date": "2025-02-15",
+      "location": "Bhubaneswar HQ",
+      "description": "Inter-departmental sports competition."
+    },
+    {
+      "title": "Safety Awareness Week",
+      "date": "2025-06-10",
+      "location": "All Units",
+      "description": "Workshops and drills on workplace safety."
+    },
+    {
+      "title": "CSR Day",
+      "date": "2025-09-20",
+      "location": "Damanjodi",
+      "description": "Community outreach and volunteering event."
+    }
+  ]
+
+}

@@ -1,0 +1,26 @@
+﻿[
+  {
+    "name": "Deepak Pal",
+    "image": "http://10.1.5.7/images/emp_pic/10435.jpg",
+    "designation": "Manager Systems",
+    "date": "2025-03-20"
+  },
+  {
+    "name": "Paresh Mohapatra",
+    "image": "http://10.1.5.7/images/emp_pic/10426.jpg",
+    "designation": "Senior Engineer",
+    "date": "2025-03-20"
+  },
+  {
+    "name": "Jitendra Tripathy",
+    "image": "http://10.1.5.7/images/emp_pic/09707.jpg",
+    "designation": "Assistant Manager",
+    "date": "2025-03-20"
+  },
+  {
+    "name": "Anita Sharma",
+    "image": "http://10.1.5.7/images/emp_pic/12345.jpg",
+    "designation": "HR Coordinator",
+    "date": "2025-04-11"
+  }
+]
