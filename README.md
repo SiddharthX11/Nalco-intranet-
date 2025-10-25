@@ -19,3 +19,12 @@ This portal is designed to consolidate various work-related tools and informatio
 🔗 Quick Links: Essential links to internal and external NALCO applications (e.g., ERP, Learning Portal, etc.).
 
 🖼️ Gallery & Events: Information and photos from recent corporate events and activities.
+🛠️ Tech Stack
+This project is built using the following technologies:
+Category,Technology,Description
+Frontend,"[e.g., React, Angular, Vue.js]",Modern framework for building the user interface.
+Styling,"[e.g., Tailwind CSS, Bootstrap, Custom SCSS]",Responsible for the responsive and intuitive NALCO-themed UI/UX.
+Backend,"[e.g., Node.js (Express), Python (Django/Flask), Java (Spring Boot)]",Handles business logic and API requests.
+Database,"[e.g., PostgreSQL, MySQL, MongoDB]","Stores employee data, news, documents, and other content."
+Authentication,"[e.g., OAuth2, LDAP Integration (Specific to NALCO)]",Secure employee login and role-based access control.
+Deployment,"[e.g., Docker, Kubernetes, On-premise Servers]",Containerization and hosting environment.
